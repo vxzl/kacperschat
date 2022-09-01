@@ -1,0 +1,7 @@
+sys
+os
+marshal
+base64
+requests
+pycryptodome
+pywin32
