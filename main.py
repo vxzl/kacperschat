@@ -46,4 +46,4 @@ t.sleep(1)
 os.system("clear")
 t.sleep(1)
 
-exec(open("login.py").read())
+exec(open("loading.py").read())
